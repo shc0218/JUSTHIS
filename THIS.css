@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jua&family=Nanum+Myeongjo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Brush+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hi+Melody&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Hi+Melody&display=swap');
+.start {
+    font-family: 'Nanum Myeongjo', serif;
+    text-align: center;
+    font-size: 100px;
+    margin-bottom: 200px;
+}
+
+.LP {
+    font-family: 'Nanum Myeongjo', serif;
+    font-size: 50px;
+}
+
+.body {
+    background: linear-gradient(#dd1818, #ACB6E5, #91EAE4)
+}
+
+.test {
+    width: 1950px;
+    font-size: 35px;
+    font-family: 'Nanum Brush Script', cursive;
+}
+
+.two {
+    margin-bottom: 500px;
+}
+
+.tes {
+    font-family: 'Hi Melody', cursive;
+    font-size: 35px;
+}
+
+.tw {
+    height: 100px;
+    margin-top: 200px;
+    font-family: 'Black Han Sans', sans-serif;
+    font-size: 30px;
+}
+
+.song {
+    width: 650px;
+    height: 450px;
+}
